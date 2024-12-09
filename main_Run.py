@@ -14,7 +14,7 @@ window = tk.Tk()
 window.title("Attendance Management System using Face Recognition")
 
 window.geometry('1280x720')
-window.configure(background='#68de7c')
+window.configure(background='grey80')
 
 # GUI for manually fill attendance
 # Manual Attendance
